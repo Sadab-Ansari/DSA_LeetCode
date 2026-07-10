@@ -12,7 +12,6 @@ public:
                 if(profit>maxProfit){
                     maxProfit=profit;
                 }
-
             }
         }
             return maxProfit;
