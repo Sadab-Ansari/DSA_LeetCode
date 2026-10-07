@@ -15,7 +15,7 @@ public:
             int x = pq.top();
             pq.pop();
 
-            // If weights are different, add the difference back
+            // If weights are different, dd the difference back
             if (x != y) {
                 pq.push(y - x);
             }
