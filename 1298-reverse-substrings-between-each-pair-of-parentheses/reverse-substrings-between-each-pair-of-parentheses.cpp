@@ -20,7 +20,7 @@ public:
                 current += ch;
             }
         }
-//
+
         return current;
     }
 };
